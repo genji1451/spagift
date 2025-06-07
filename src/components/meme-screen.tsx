@@ -47,7 +47,7 @@ export const MemeScreen: React.FC<MemeScreenProps> = ({ onBackToResults }) => {
             className="mb-4 rounded-xl overflow-hidden"
           >
             <Image
-              src="https://el.kz/storage/storage/element/2025/06/04/mainphoto/157102/1200xauto_JP59cjqDiqBjPFVUX8PHDq787Uxpzze0790G1qdU.jpg"
+              src="https://el.kz/storage/storage/element/2025/06/04/mainphoto/157102/1200xauto_JP59cjqDiqBjPFVUX8PHDq787Uxpzze0790G1qdU.jpg "
               alt="Грустная лягушка мем"
               width={400}
               height={300}
